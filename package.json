@@ -2,7 +2,6 @@
   "name": "my-project",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/fatimajawad116/labeb",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
@@ -11,6 +10,7 @@
     "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
   },
+  "homepage": "https://fatimajawad116.github.io/labeb",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@react-icons/all-files": "^4.1.0",
